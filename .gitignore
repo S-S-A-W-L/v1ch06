@@ -2,8 +2,8 @@
 interfaces/.idea/
 interfaces/out/
 interfaces/*.iml
-clone/.idea
-clone/out
+clone/.idea/
+clone/out/
 clone/*.iml
 
 
