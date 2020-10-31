@@ -1,10 +1,13 @@
-#interfaces/.idea/
-#nterfaces/out/
-#interfaces/*.iml
+clone/.idea/
+clone/out/
+clone/*.iml
 
-#clone/.idea/
-#clone/out/
-#clone/*.iml
+interfaces/.idea/
+interfaces/out/
+interfaces/*.iml
+
+
+interfaces/
 
 
 
