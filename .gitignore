@@ -6,8 +6,10 @@ interfaces/.idea/
 interfaces/out/
 interfaces/*.iml
 
-
 interfaces/
+clone/
 
-
+lambda/.idea/
+lambda/out/
+lambda/*.iml
 
